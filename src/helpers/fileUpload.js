@@ -2,7 +2,7 @@ export const fileUpload = async(file) => {
 
     if(!file) throw new Error('No se encontraron archivos para subir');
 
-    const cloudUrl = 'https://api.cloudinary.com/v1_1/dvec2zzmc/upload';
+    const cloudUrl = 'https://api.cloudinary.com/v1_1/tu_cloud_name/upload';
 
     const formData = new FormData();
     formData.append('upload_preset', 'react-journal');
