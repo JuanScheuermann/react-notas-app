@@ -3,10 +3,10 @@ Una aplicacion que te permite crear, modificar, eliminar notas y agregarle image
 Tambien nos permite crearnos un usuario y autenticarnos con Google.
 
 Para este proyecto utilize:
-React
-Firebase como base de datos y para autenticacion de usuarios
-Cloudinary para alojar las imagenes
-Material UI para el layout
+React.
+Firebase como base de datos y para autenticacion de usuarios.
+Cloudinary para alojar las imagenes.
+Material UI para el layout.
 
 Pasos:
 Primero se deben crear una cuenta y un proyecto en firebase, una vez echo ir a la carpeta src/firebase/config.js y 
